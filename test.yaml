@@ -31,7 +31,7 @@ stringq1: >
 
 # Collection sequence data types
  # sequence arraylist example
-sequence:
+ sequence:
  - One
  - two
  - Three

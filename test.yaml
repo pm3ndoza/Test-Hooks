@@ -8,17 +8,18 @@ key: value
 integerValue: 1                     # integer value
 floatingValue: 1                     # floating vale
 
-stringValue: '456'                   # string with double quotes
+stringValue: '456'                    # string with double quotes
 stringValue1: abc                    # string with single quotes
 stringValue2: wer                   # string without quotes
 
-booleanValue: true                   # boolean values - true or false
+bool anValue: true                   # boolean values - true or false
 
 
 # Multiline string with literal block syntax -preserved new lines
 intro: |
   We are happy that you are interested in
   and
+
   more
 
 # Multiline strings with folded block syntax - new lines are not preserved, leading and trailing spaces are ignore
